@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP&amp;MVVM</string>
+    <string name="mvp_example">MVP Example</string>
+    <string name="mvvm_example">MVVM EXAMPLE</string>
+    <string name="mistake_in_phone_number">Mistake in phone number</string>
+    <string name="success">Success</string>
+    <string name="send">Send!</string>
+</resources>
